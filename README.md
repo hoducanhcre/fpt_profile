@@ -1,16 +1,16 @@
 <h1>Test Github site Project</h1>
 =======================================<br>
 + Supervisor		: HO DUC ANH<br>
-+ Semester		: I<br>
-+ Batch No		: [Your class name]<br>
-+ Group No:		: [your group no]<br>
++ Semester		: NaN<br>
++ Batch No		: NaN<br>
++ Group No:		: NaN<br>
 + List Of Member:<br>
-	1. Lê Văn A  	(Student0000001)<br>
-	2. Trần Văn Sê	(Student0000002)<br>
-	3. Nguyễn Thị Bê 	(Student0000003)	<br>
+	1. NaN  	(NaN)<br>
+	2. NaN	(NaN)<br>
+	3. NaN 	(NaN)	<br>
 =======================================<br>
-Documentations : https://github.com/hoducanhcre/test_/tree/main/Documentations<br>
+Documentations : NaN<br>
 =======================================<br>
-Published website : https://hoducanhcre.github.io/test_/<br>
+Published website : https://hoducanhcre.github.io/fpt_profile/
 =======================================<br>
 Thank you for visit our website.
